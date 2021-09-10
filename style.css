@@ -1,0 +1,26 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+#games{
+    background-color: azure;
+    
+}
+#games img{
+    height: 350px;
+    margin-top: 35px;
+    
+}
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: aquamarine;
+}
